@@ -47,35 +47,6 @@ public class cartas : MonoBehaviour
             else
                 Debug.Log(numero + " de " + Txtnaipe + ". O que achas que significa?");
         }
-
-        /* switch (numero)
-     {
-         case 1:
-             Debug.Log("Ás de " + Txtnaipe + ". O que achas que significa?");
-             break;
-         case 7:
-             Debug.Log("Bisca de " + Txtnaipe + ". O que achas que significa?");
-             break;
-         case 11:
-             Debug.Log("Valete de " + Txtnaipe + ". O que achas que significa?");
-             break;
-         case 12:
-             Debug.Log("Dama de " + Txtnaipe + ". O que achas que significa?");
-             break;
-         case 13:
-             Debug.Log("Rei de " + Txtnaipe + ". O que achas que significa?");
-             break;
-         case 14:
-             Debug.Log("Jóquer. O que achas que significa?");
-             break;
-         default:
-             Debug.Log(numero + " de " + Txtnaipe + ". O que achas que significa?");
-             break;
-     }
-    */
-
-
-
     }
 
 
